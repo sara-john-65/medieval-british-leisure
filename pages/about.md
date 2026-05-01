@@ -7,6 +7,9 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+## The Items in this Collection
+
+Each item in this collection represents different aspects of the culture of art and leisure during the Middle Ages in the British Isles, such as storytelling, games, and music. They are from various places dotted across the British Isles, and can be found today in the archives of a number of modern institutions. In showcasing these items, I hope to connect viewers with the humanity of the past and highlight the importance of historical preservation how we understand the daily lives of people who lived centuries ago.
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
@@ -22,6 +25,3 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
