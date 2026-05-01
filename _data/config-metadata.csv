@@ -6,7 +6,7 @@ description,Description,
 subject,Subjects,true
 original-location,Original Location,
 current-location,Current Location,
-itemn-name,Item Type,
+itemn-type,Item Type,
 language,Language,
 identifier,Source Identifier,
 type,File Type,
