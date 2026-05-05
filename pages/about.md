@@ -12,7 +12,7 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## The Items in this Collection
-Each item in this collection represents different aspects of the culture of art and leisure during the Middle Ages in the British Isles, such as storytelling, games, and music. They are from various places dotted across the British Isles, and can be found today in the archives of a number of modern institutions. In showcasing these items, I hope to connect viewers with the humanity of the past and highlight the importance of historical preservation how we understand the daily lives of people who lived centuries ago.
+Each item in this collection represents different aspects of the culture of art and leisure during the Middle Ages in the British Isles, such as storytelling, games, and music. They are from various places dotted across the British Isles, and can be found today in the archives of a number of modern institutions. In showcasing these items, I hope to connect viewers with the humanity of the past and highlight the importance of historical preservation in how we understand the daily lives of people who lived centuries ago.
 
 ## About the Collection
 
